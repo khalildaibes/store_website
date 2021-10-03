@@ -1,0 +1,13 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.lior {
+  border: 1px solid #333;
+}
+
+/* clear fix */
+.lior:after {
+  content: '';
+  display: block;
+  clear: both;
+}
